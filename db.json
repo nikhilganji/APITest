@@ -1,0 +1,58 @@
+{
+  "posts": [
+    {
+      "id": 4,
+      "title": "gwen",
+      "body": "typicode"
+    },
+    {
+      "id": 5,
+      "title": "max",
+      "body": "typicode"
+    },
+    {
+      "body": "Hello there, my name is nikhil and I am writing this post inorder to check my twitter clone app that I am going to submit to one of the good companies in sandiego, that is Intuit.\nALright see you there!",
+      "title": "Nikhil Ganji",
+      "id": 103
+    },
+    {
+      "body": "Hello there, I am the owner of Omnitrix.",
+      "title": "Ben Tennyson",
+      "id": 104
+    },
+    {
+      "body": "What's up?",
+      "title": "Yo Joke",
+      "id": 113
+    },
+    {
+      "body": "haskdjhskjfhkjasdhkja",
+      "title": "sdlajsdkj\\dashkj\\sahdkj",
+      "id": 114
+    },
+    {
+      "body": "kjsahfkjhasdjhkajsdhkjasd",
+      "title": "sAJSHKjahskjh",
+      "id": 115
+    },
+    {
+      "body": "Hello there..!!",
+      "title": "Nikhil Ganji",
+      "id": 116
+    },
+    {
+      "body": "Hello, What's up?",
+      "title": "Obama",
+      "id": 117
+    },
+    {
+      "body": "asasdasdasdas",
+      "title": "sdsdsd",
+      "id": 118
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
